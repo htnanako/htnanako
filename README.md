@@ -9,4 +9,4 @@
 
 ---
 
-![hutao](/img/hutao.png)
+![hutao](https://github.com/htnanako/htnanako/blob/main/img/hutao.png?raw=true)
