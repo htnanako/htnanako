@@ -13,4 +13,4 @@
 
 ---
 
-![hutao](https://github.com/htnanako/htnanako/blob/main/img/hutao.png?raw=true)
+![hutao](https://ghproxy.com/https://raw.githubusercontent.com/htnanako/htnanako/main/img/hutao.png)
