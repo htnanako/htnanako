@@ -5,7 +5,7 @@
 
 #### 主页
 
-- [奈奈子的博客](https://nanako.vip)
+- [奈奈子的博客](https://blog.nanako.vip)
 
 #### 请我喝杯奶茶
 
