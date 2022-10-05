@@ -1,12 +1,12 @@
 # NAME: PT
 # AUTHOR: nanako
 # REPO: https://github.com/htnanako/htnanako
-# UPDATED: 2022-09-26
-# DOMAIN: 65
+# UPDATED: 2022-10-06
+# DOMAIN: 66
 # DOMAIN-SUFFIX: 0
 # IP-CIDR: 0
 # IP-CIDR6: 0
-# TOTAL: 65
+# TOTAL: 66
 DOMAIN,kp.m-team.cc
 DOMAIN,lemonhd.org
 DOMAIN,ourbits.club
@@ -72,3 +72,4 @@ DOMAIN,piggo.me
 DOMAIN,0ff.cc
 DOMAIN,wintersakura.net
 DOMAIN,ptchina.org
+DOMAIN,pt.hd4fans.org
