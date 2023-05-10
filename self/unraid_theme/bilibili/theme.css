@@ -13,7 +13,7 @@
 
     /*教程在这里 http://xiaonie.cc/archives/unraid*/ 
     /*ht.gif是左下角的动图， bg.jpg是背景图片，自己替换，注意文件路径  */ 
-    background-image: url(https://alist.nanako.vip/d/VIP/.script/static/unraid_theme/bilibili/ht.gif?sign=yHiJ8bOQf4WG07_FsjOpZCW-xOalrm-QZOsAnpTMeas=:0),url(https://alist.nanako.vip/d/VIP/.script/static/unraid_theme/bilibili/bg.jpg?sign=J_za-qSHi7Vmn43XJMhYk82_hkEP5dNj-_27saZ6jmE=:0);
+    background-image: url(https://raw.githubusercontent.com/htnanako/htnanako/main/self/unraid_theme/bilibili/ht.gif),url(https://raw.githubusercontent.com/htnanako/htnanako/main/self/unraid_theme/bilibili/bg.jpg);
     
     background-repeat: no-repeat , no-repeat;
     background-position: right bottom , center top;
